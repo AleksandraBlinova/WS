@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Beach T-Shirt White",
+        "price": "2,221,53 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/The-Quiet-Life-Beach-T-Shirt-White_grande.jpeg?v=1462314458"
+    },
+    {
+        "id": "2",
+        "name": "Flag T-Shirt Cream",
+        "price": "1,960,17 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/The-Quiet-Life-Flag-T-Shirt-Cream-Ascent-Wear_grande.jpeg?v=1462303912"
+    },
+    {
+        "id": "3",
+        "name": "Fog Photo T-Shirt",
+        "price": "2,940,26 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/The-Quiet-Life-Fog-Photo-T-Shirt-White-Front_grande.jpeg?v=1461370161"
+    },
+    {
+        "id": "4",
+        "name": "Hoops T-Shirt Black",
+        "price": "1,960,17 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/the_quiet_life_hoops_t_shirt_16SUM-0155-BLK-black_grande.jpeg?v=1467838701"
+    },
+    {
+        "id": "5",
+        "name": "Baggies Board Shorts",
+        "price": "3,201,61 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/image_636ff7ed-1f2a-4136-86d7-bcffd7af0825_grande.jpg?v=1490916695"
+    },
+    {
+        "id": "6",
+        "name": "Baggies Board Shorts",
+        "price": "3,201,61 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/image_2a2ef08c-8f49-450f-83c7-b779a1e286d1_grande.jpg?v=1490916585"
+    },
+    {
+        "id": "7",
+        "name": "Camera Club Polo Hat",
+        "price": "2,352,20 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/the_quiet_life_camera_club_polo_hat_black_grande_56b7206f-7aa6-479e-9862-0c99f2c171fa_grande.jpg?v=1479239390"
+    },
+    {
+        "id": "8",
+        "name": "Day Beanie",
+        "price": "1,829,49 RUB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/the_quiet_life_day_beanie_maroon_grande_68a24bda-ee65-48a2-aa9d-568f9433535b_grande.jpg?v=1479244987"
+    },
+    {
+        "id": "9",
+        "name": "Fisherman Cap Beanie",
+        "price": "1,829,49 RUBB",
+        "img": "https://cdn.shopify.com/s/files/1/1221/2504/products/the_quiet_life_fisherman_cap_navy_grande_2f6276ec-0b94-401a-886a-39dfc455a8f4_grande.jpg?v=1479244704"
+    },
+    
+]    
